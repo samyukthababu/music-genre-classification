@@ -4,7 +4,7 @@ The notebooks show the code used to perform multi-class classification of images
 
 Classification of images was implemented using Feed-Forward Neural Network (FNN) and Convolutional Neural Network (CNN) (3 different architectures) for 50 and 100 epochs. 
 
-The accuracy for the 4 networks, for 50 epochs in the code are shown in the table below: 
+The accuracy for the 4 networks for 50 epochs are shown in the table below: 
 
 | Network Architectures | Training Accuracy | Validation Accuracy | Test Accuracy |
 | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ The accuracy for the 4 networks, for 50 epochs in the code are shown in the tabl
 | CNN + ReLU + Batch Normalisation + Adam | 100% | 65.03% | 56.41% |
 | CNN + ReLU + Batch Normalisation + RMSprop | 33.08% | 30.55% | 31.25% | 
 
-The accuracy for the 4 networks, for 100 epochs in the code are shown in the table below: 
+The accuracy for the 4 networks for 100 epochs are shown in the table below: 
 
 | Network Architectures | Training Accuracy | Validation Accuracy | Test Accuracy |
 | --- | --- | --- | --- |
